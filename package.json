@@ -1,0 +1,48 @@
+{
+    "name": "midnight-ember-theme",
+    "displayName": "Midnight Ember",
+    "description": "A premium dark theme with warm ember accents, teal highlights, and a rich midnight base. Built for developers who live in the dark.",
+    "version": "1.0.0",
+    "publisher": "waqar-ali-siyal",
+    "author": {
+        "name": "Waqar Ali Siyal"
+    },
+    "engines": {
+        "vscode": "^1.70.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "keywords": [
+        "dark",
+        "theme",
+        "ember",
+        "midnight",
+        "warm",
+        "premium",
+        "color theme"
+    ],
+    "icon": "icon.png",
+    "galleryBanner": {
+        "color": "#0D1117",
+        "theme": "dark"
+    },
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/waqaralisiyal23/midnight-ember-theme"
+    },
+    "contributes": {
+        "themes": [
+            {
+                "label": "Midnight Ember",
+                "uiTheme": "vs-dark",
+                "path": "./themes/midnight-ember-color-theme.json"
+            },
+            {
+                "label": "Midnight Ember Soft",
+                "uiTheme": "vs-dark",
+                "path": "./themes/midnight-ember-soft-color-theme.json"
+            }
+        ]
+    }
+}
