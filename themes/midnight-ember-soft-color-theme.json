@@ -28,7 +28,7 @@
         "focusBorder": "#F5A97F00",
         "selection.background": "#F5A97F40",
         "descriptionForeground": "#A1A1AA",
-        "errorForeground": "#F38BA8",
+        "errorForeground": "#EF4444",
         "icon.foreground": "#A1A1AA",
         "widget.shadow": "#00000050",
         "widget.border": "#27272A",
@@ -92,7 +92,7 @@
         "list.inactiveSelectionBackground": "#F5A97F15",
         "list.inactiveSelectionForeground": "#D4D4D8",
         "list.warningForeground": "#FFB86C",
-        "list.errorForeground": "#F38BA8",
+        "list.errorForeground": "#EF4444",
         // ─── Activity Bar ───────────────────────────────
         "activityBar.background": "#18181B",
         "activityBar.foreground": "#D4D4D8",
@@ -222,9 +222,9 @@
         // ─── Git Decoration ─────────────────────────────
         "gitDecoration.addedResourceForeground": "#A6E3A1",
         "gitDecoration.conflictingResourceForeground": "#FFB86C",
-        "gitDecoration.deletedResourceForeground": "#F38BA8",
+        "gitDecoration.deletedResourceForeground": "#C75050",
         "gitDecoration.ignoredResourceForeground": "#52525B",
-        "gitDecoration.modifiedResourceForeground": "#F5A97F",
+        "gitDecoration.modifiedResourceForeground": "#E5C07B",
         "gitDecoration.renamedResourceForeground": "#89DCEB",
         "gitDecoration.untrackedResourceForeground": "#A6E3A1",
         // ─── Breadcrumb ─────────────────────────────────
