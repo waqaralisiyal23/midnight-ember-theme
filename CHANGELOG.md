@@ -1,5 +1,11 @@
 # Changelog
 
+## [1.0.2] - 2026-02-13
+
+### ✨ Improved
+- Function parameters now use a distinct lavender color instead of orange for better readability
+- Clearer visual separation between parameters, keywords, and variables in Dart/Flutter and other languages
+
 ## [1.0.1] - 2026-02-13
 
 ### 🐛 Fixed

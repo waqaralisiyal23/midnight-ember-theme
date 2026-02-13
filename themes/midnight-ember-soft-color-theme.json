@@ -17,7 +17,7 @@
         "function": "#94E2D5",
         "method": "#94E2D5",
         "macro": "#F38BA8",
-        "parameter": "#FFB86C",
+        "parameter": "#DDB8FF",
         "property": "#D4D4D8",
         "variable": "#D4D4D8"
     },
@@ -407,7 +407,7 @@
                 "meta.parameter"
             ],
             "settings": {
-                "foreground": "#FFB86C",
+                "foreground": "#DDB8FF",
                 "fontStyle": "italic"
             }
         },
